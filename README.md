@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anandprakash1904
 - 👀 I’m interested in IoT & Cybersecurity
-- 🌱 I’m currently learning Network Programming and SDN
+- 🌱 I’m a tech generalist - CyberSec, IoT and AI
 - 💞️ I’m looking to collaborate on Embedded Projects
 - 📫 How to reach me anandprakash1904@gmail.com
 
